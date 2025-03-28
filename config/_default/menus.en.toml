@@ -15,32 +15,73 @@
 #  pageRef = "posts"
 #  weight = 10
 
-#[[main]]
-#  name = "Parent"
-#  weight = 20
+[[main]]
+name = "About"
+pageRef = "about"
+weight = 1
 
-#[[main]]
-#  name = "example sub-menu 1"
-#  parent = "Parent"
-#  pageRef = "posts"
-#  weight = 20
+[[main]]
+name = "Blogs"
+pageRef = "blogs"
+weight = 2
 
-#[[main]]
-#  name = "example sub-menu 2"
-#  parent = "Parent"
-#  pageRef = "posts"
-#  weight = 20
+[[main]]
+name = "Books"
+parent = "Blogs"
+pageRef = "books"
+weight = 20
 
-#[[subnavigation]]
-#  name = "An interesting topic"
-#  pageRef = "tags/interesting-topic"
-#  weight = 10
+[[main]]
+name = "Movies"
+parent = "Blogs"
+pageRef = "movies"
+weight = 30
 
-#[[subnavigation]]
-#  name = "My Awesome Category"
-#  pre = "github"
-#  pageRef = "categories/awesome"
-#  weight = 20
+[[main]]
+name = "Tech"
+parent = "Blogs"
+pageRef = "tech"
+weight = 40
+
+
+[[main]]
+name = "Music"
+pageRef = "music"
+weight = 3
+
+
+[[main]]
+name = "Photography"
+pageRef = "photos"
+weight = 4
+
+[[main]]
+name = "Portfolio"
+url = "https://ty-world.vercel.app/"
+weight = 5
+
+[[subnavigation]]
+name = "Broken Car"
+pre = "paw1"
+pageRef = "brokencar"
+weight = 1
+
+[[subnavigation]]
+name = "The Blind Leading the Blind"
+pre = "youtube"
+url = "https://www.youtube.com/@_TheBlindLeadingTheBlind"
+weight = 2
+
+[[subnavigation]]
+name = "Github"
+pre = "github"
+weight = 3
+
+[[subnavigation]]
+name = "LinkedIn"
+pre = "linkedin"
+url = "https://www.linkedin.com/in/talha-yildirimm/"
+weight = 4
 
 #[[main]]
 #  name = "Categories"
