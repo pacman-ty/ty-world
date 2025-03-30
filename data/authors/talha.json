@@ -1,0 +1,11 @@
+{
+    "name": "Talha Yildirim",
+    "image" : "img/talha_pfp.png",
+    "bio": "temp bio",
+    "social": [
+      { "spotify": "https://open.spotify.com/user/efkep0xtgnbczk72wiyhtlcnt" },
+      { "youtube": "https://www.youtube.com/@_TheBlindLeadingTheBlind" },
+      { "linkedin": "https://linkedin.com/in/talha-yildirimm" },
+      { "github": "https://github.com/pacman-ty" }
+    ]
+}
