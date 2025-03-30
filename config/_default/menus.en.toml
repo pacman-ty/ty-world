@@ -43,22 +43,26 @@ parent = "Blogs"
 pageRef = "tech"
 weight = 40
 
+[[main]]
+name = "Essays"
+pageRef = "essays"
+weight = 3
 
 [[main]]
 name = "Music"
 pageRef = "music"
-weight = 3
+weight = 4
 
 
 [[main]]
 name = "Photography"
 pageRef = "photos"
-weight = 4
+weight = 5
 
 [[main]]
 name = "Portfolio"
 url = "https://ty-world.vercel.app/"
-weight = 5
+weight = 6
 
 [[subnavigation]]
 name = "Broken Car"
@@ -77,11 +81,11 @@ name = "Github"
 pre = "github"
 weight = 3
 
-[[subnavigation]]
-name = "LinkedIn"
-pre = "linkedin"
-url = "https://www.linkedin.com/in/talha-yildirimm/"
-weight = 4
+# [[subnavigation]]
+# name = "LinkedIn"
+# pre = "linkedin"
+# url = "https://www.linkedin.com/in/talha-yildirimm/"
+# weight = 4
 
 #[[main]]
 #  name = "Categories"
@@ -98,13 +102,22 @@ weight = 4
 # The footer menu is displayed at the bottom of the page, just before
 # the copyright notice. Configure as per the main menu above.
 
+[[footer]]
+name = "Authors"
+pageRef = "authors"
+weight = 10
 
-# [[footer]]
-#   name = "Tags"
-#   pageRef = "tags"
-#   weight = 10
+[[footer]]
+name = "Tags"
+pageRef = "tags"
+weight = 40
 
-# [[footer]]
-#   name = "Categories"
-#   pageRef = "categories"
-#   weight = 20
+[[footer]]
+name = "Categories"
+pageRef = "categories"
+weight = 30
+
+[[footer]]
+name = "Series"
+pageRef = "series"
+weight = 20

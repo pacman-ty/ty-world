@@ -19,7 +19,7 @@ enableEmoji = true
 # googleAnalytics = "G-XXXXXXXXX"
 
 [pagination]
-pagerSize = 100
+pagerSize = 15
 
 [imaging]
 anchor = 'Center'
@@ -39,8 +39,9 @@ priority = 0.5
 home = ["HTML", "RSS", "JSON"]
 
 [related]
-threshold = 0
-toLower = false
+threshold = 1       # Minimum relevance score for a post to be considered "related" (1 = low threshold, more matches)
+includeNewer = true # Include newer posts in related content (not just older ones)
+toLower = true      # Convert terms to lowercase for comparison (makes matching case-insensitive)
 
 [[related.indices]]
 name = "tags"
@@ -52,7 +53,7 @@ weight = 100
 
 [[related.indices]]
 name = "series"
-weight = 50
+weight = 150
 
 [[related.indices]]
 name = "authors"
