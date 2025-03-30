@@ -59,42 +59,52 @@ showDateUpdated = false
 showAuthor = false
 # showAuthorBottom = false
 showHero = true
-heroStyle = "background"           # valid options: basic, big, background, thumbAndBackground
-layoutBackgroundBlur = true        # only used when heroStyle equals background or thumbAndBackground
-layoutBackgroundHeaderSpace = true # only used when heroStyle equals background
+heroStyle = "background"                                            # valid options: basic, big, background, thumbAndBackground
+layoutBackgroundBlur = true                                         # only used when heroStyle equals background or thumbAndBackground
+layoutBackgroundHeaderSpace = true                                  # only used when heroStyle equals background
 showBreadcrumbs = true
 showDraftLabel = true
-showEdit = false
-# editURL = "https://github.com/username/repo/"
+showEdit = true
+editURL = "https://github.com/pacman-ty/ty-world/tree/main/content"
 editAppendPath = true
-seriesOpened = false
+seriesOpened = true
 showHeadingAnchors = true
 showPagination = true
 invertPagination = false
 showReadingTime = true
-showTableOfContents = false
-# showRelatedContent = false
-# relatedContentLimit = 3
-showTaxonomies = false
-showAuthorsBadges = false
-showWordCount = true
-# sharingLinks = [ "linkedin", "twitter", "bluesky", "mastodon", "reddit", "pinterest", "facebook", "email", "whatsapp", "telegram"]
+showTableOfContents = true
+showRelatedContent = true
+relatedContentLimit = 6
+showTaxonomies = true
+showAuthorsBadges = true
+showWordCount = false
+showSummary = true
+# showComment = true
 showZenMode = false
+sharingLinks = [
+  "linkedin",
+  "twitter",
+  "reddit",
+  "pinterest",
+  "facebook",
+  "email",
+  "whatsapp",
+  "telegram",
+]
 
 [list]
-showHero = false
-# heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
-layoutBackgroundBlur = true        # only used when heroStyle equals background or thumbAndBackground
-layoutBackgroundHeaderSpace = true # only used when heroStyle equals background
+showHero = true
+showDate = true
+heroStyle = "background"            # valid options: basic, big, background, thumbAndBackground
+layoutBackgroundBlur = false        # only used when heroStyle equals background or thumbAndBackground
+layoutBackgroundHeaderSpace = false # only used when heroStyle equals background
 showBreadcrumbs = false
-showSummary = false
-showViews = false
-showLikes = false
+showSummary = true
 showTableOfContents = false
 showCards = false
 orderByWeight = false
-groupByYear = true
-cardView = false
+groupByYear = false
+cardView = true
 cardViewScreenWidth = false
 constrainItemsWidth = false
 
@@ -103,23 +113,19 @@ excludedKinds = ["taxonomy", "term"]
 
 [taxonomy]
 showTermCount = true
-showHero = false
-# heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
+showHero = true
+heroStyle = "background"    # valid options: basic, big, background, thumbAndBackground
 showBreadcrumbs = false
-showViews = false
-showLikes = false
 showTableOfContents = false
 cardView = false
 
 [term]
 showHero = false
-# heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
+heroStyle = "basic"         # valid options: basic, big, background, thumbAndBackground
 showBreadcrumbs = false
-showViews = false
-showLikes = false
-showTableOfContents = true
-groupByYear = false
-cardView = false
+showTableOfContents = false
+groupByYear = true
+cardView = true
 cardViewScreenWidth = false
 
 [firebase]
