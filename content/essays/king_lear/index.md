@@ -1,8 +1,8 @@
 --- 
 title: "Below Water Currents"
-date: 2024-03-19
-summary: "A dialectical interpretation of William Shakespeare's Edmund in King Lear"
-description: "A dialectical interpretation of William Shakespeare's Edmund in King Lear"
+date: 2025-03-31
+summary: "A dialectical interpretation of William Shakespeares Edmund in King Lear"
+description: "A dialectical interpretation of William Shakespeares Edmund in King Lear"
 
 categories: [essays]
 tags: []
