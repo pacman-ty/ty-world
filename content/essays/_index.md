@@ -2,4 +2,4 @@
 title: "Essays"
 ---
 
-A collection of essays of various different topics.
+A collection of essays on various different topics.
