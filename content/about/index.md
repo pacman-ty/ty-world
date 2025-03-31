@@ -16,7 +16,7 @@ showTaxonomies : false
 showWordCount : false
 showSummary : false
 sharingLinks : false
-showRelatedContent: true
+showRelatedContent: false
 showEdit: false
 layoutBackgroundHeaderSpace: false
 ---
