@@ -56,7 +56,7 @@ weight = 4
 
 [[main]]
 name = "Photography"
-pageRef = "photos"
+pageRef = "photography"
 weight = 5
 
 [[main]]
@@ -67,13 +67,13 @@ weight = 6
 [[subnavigation]]
 name = "Broken Car"
 pre = "paw1"
-pageRef = "brokencar"
+pageRef = "broken_car"
 weight = 1
 
 [[subnavigation]]
 name = "The Blind Leading the Blind"
 pre = "youtube"
-url = "https://www.youtube.com/@_TheBlindLeadingTheBlind"
+pageRef = "blb"
 weight = 2
 
 [[subnavigation]]
