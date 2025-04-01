@@ -9,4 +9,4 @@ categories: []
 cardView: false
 ---
 
-My muddled thoughts on a couple different things \(⸝⸝๑﹏๑⸝⸝\)
+My muddled thoughts on different things... &nbsp; \(ᵕ•_•\)

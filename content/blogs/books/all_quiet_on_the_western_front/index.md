@@ -1,5 +1,5 @@
 ---
-title: "All Queit On the Western Front"
+title: "All Quiet On the Western Front"
 summary: ""
 description: ""
 

@@ -1,7 +1,7 @@
 ---
 title: "About"
 summary: "Wander into the glade and listen to the wind."
-description: ""
+description: "Wander into the glade and listen to the wind."
 
 draft: false
 date: 2025-03-30 # follow the Y/M/D format 
@@ -20,3 +20,5 @@ showRelatedContent: false
 showEdit: false
 layoutBackgroundHeaderSpace: false
 ---
+
+𓆝 𓆟 𓆞 𓆝 𓆟𓆝 𓆟 𓆞 𓆝 𓆟
