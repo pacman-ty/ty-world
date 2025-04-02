@@ -1,7 +1,7 @@
 ---
 title: "Pursuit of love"
-summary: "Maybe we are a well waiting for someone to see themselves and break their fast"
-description: "Maybe we are a well waiting for someone to see themselves and break their fast"
+summary: "Maybe we are a well waiting for someone to see themselves in us and break their fast"
+description: "Maybe we are a well waiting for someone to see themselves in us and break their fast"
 
 draft: false
 date: 2024-06-30 # follow the Y/M/D format 
