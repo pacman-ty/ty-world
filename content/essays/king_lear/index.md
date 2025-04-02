@@ -5,13 +5,12 @@ summary: "A dialectical interpretation of William Shakespeares Edmund in King Le
 description: "A dialectical interpretation of William Shakespeares Edmund in King Lear"
 
 categories: [essays]
-tags: []
+tags: [Shakespeare]
 
 authors:
   - talha
 
 draft: false
-
 ---
 
 &nbsp;&nbsp;&nbsp;&nbsp; There is a quote in Hamlet that captures quite succinctly the fundamental incertitude that characterizes the human condition—

@@ -19,6 +19,7 @@ sharingLinks : false
 showRelatedContent: false
 showEdit: false
 layoutBackgroundHeaderSpace: false
+excludeFromRelated: true
 ---
 
 𓆝 𓆟 𓆞 𓆝 𓆟𓆝 𓆟 𓆞 𓆝 𓆟

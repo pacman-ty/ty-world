@@ -9,7 +9,7 @@ defaultContentLanguage = "en"
 # pluralizeListTitles = "true" # hugo function useful for non-english languages, find out more in  https://gohugo.io/getting-started/configuration/#pluralizelisttitles
 
 enableRobotsTXT = true
-summaryLength = 50
+summaryLength = 30
 
 buildDrafts = false
 buildFuture = false
@@ -39,7 +39,7 @@ priority = 0.5
 home = ["HTML", "RSS", "JSON"]
 
 [related]
-threshold = 1       # Minimum relevance score for a post to be considered "related" (1 = low threshold, more matches)
+threshold = 20      # Minimum relevance score for a post to be considered "related" (1 = low threshold, more matches)
 includeNewer = true # Include newer posts in related content (not just older ones)
 toLower = true      # Convert terms to lowercase for comparison (makes matching case-insensitive)
 
