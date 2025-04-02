@@ -1,7 +1,7 @@
 ---
 title: "The sun is a star"
-summary: "mind blowing fact"
-description: "mind blowing fact"
+summary: "Mind blowing fact"
+description: "Mind blowing fact"
 
 draft: false
 date: 2024-06-18 # follow the Y/M/D format 
