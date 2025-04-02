@@ -26,24 +26,6 @@ pageRef = "blogs"
 weight = 2
 
 [[main]]
-name = "Books"
-parent = "Blogs"
-pageRef = "books"
-weight = 20
-
-[[main]]
-name = "Movies"
-parent = "Blogs"
-pageRef = "movies"
-weight = 30
-
-[[main]]
-name = "Tech"
-parent = "Blogs"
-pageRef = "tech"
-weight = 40
-
-[[main]]
 name = "Essays"
 pageRef = "essays"
 weight = 3
