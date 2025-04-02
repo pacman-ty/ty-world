@@ -7,7 +7,7 @@ draft: false
 date: 2025-02-10 # follow the Y/M/D format 
 
 categories: [car]
-# tags: []
+tags: [turkish]
 #series: []
 # series\_order: 
 
