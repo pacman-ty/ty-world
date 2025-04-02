@@ -18,7 +18,7 @@ showRelatedContent: false
 showReadingTime: false
 ---
 
-![](background.jpg)
+![](image.jpg)
 
 &nbsp;&nbsp;&nbsp;&nbsp; "You are deeply loveable"
 
