@@ -1,7 +1,7 @@
 ---
 title: "Soft Meadows"
-summary: "Let me spend a momemnt by your side, thats all I ask"
-description: "Let me spend a momemnt by your side, thats all I ask"
+summary: "Let me spend a moment by your side, thats all I ask"
+description: "Let me spend a moment by your side, thats all I ask"
 
 draft: false
 date: 2024-11-09 # follow the Y/M/D format 
