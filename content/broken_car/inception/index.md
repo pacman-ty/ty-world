@@ -4,7 +4,7 @@ summary: "Inception."
 description: "Inception."
 
 draft: false
-date: 2024-06-24 # follow the Y/M/D format 
+date: 2024-06-13 # follow the Y/M/D format 
 
 categories: [car]
 # tags: []
@@ -13,8 +13,11 @@ categories: [car]
 
 authors:
   - talha
+
+showRelatedContent: false
+showReadingTime: false
 ---
 
 ![](feature.png)
 
-Inception.
+&nbsp;&nbsp;&nbsp;&nbsp; Inception.
