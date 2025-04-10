@@ -22,7 +22,7 @@ disableTextInHeader = false
 # backgroundImageWidth = 1200
 
 defaultBackgroundImage = "/img/eva_background2.png" # used as default for background images 
-defaultFeaturedImage = "/img/eva_background.png"    # used as default for featured images in all articles
+defaultFeaturedImage = "/img/kid_typing.gif"        # used as default for featured images in all articles
 
 # highlightCurrentMenuArea = true
 # smartTOC = true
@@ -45,7 +45,7 @@ showScrollToTop = true
 layout = "background"                      # valid options: page, profile, hero, card, background, custom
 homepageImage = "/img/eva_background2.png" # used in: hero, and card
 showRecent = true
-showRecentItems = 12
+showRecentItems = 6
 showMoreLink = true
 showMoreLinkDest = "/categories/"
 cardView = false
