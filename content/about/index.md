@@ -22,4 +22,43 @@ layoutBackgroundHeaderSpace: false
 excludeFromRelated: true
 ---
 
+Hi, I'm Talha.
+
 𓆝 𓆟 𓆞 𓆝 𓆟𓆝 𓆟 𓆞 𓆝 𓆟
+
+I'll keep this section strictly about me and reserve what the nature of this website is for a separate post for the fans.
+
+## Early Life
+
+A little bit of early background. I was born in Hamilton, Canada, but shortly after moved back to Uşak, Türkiye. It was in Türkiye I learned to play chess. It was actually taught at the school I attended, every Friday end of day was chess lessons. I think the reason I still play to this day are the fond memories I have of when I was learning to play. My aunt also taught more fundamentals at home which sparked an intense rivalry between me and my older twin brothers. I have a lot of nostalgia for back home, but who doesn't. I remember when my older cousin would take me on errands and buy me gummies every time. It was our secret we kept from my brothers. Ultimately, I don't otherwise remember to much being so young at the time.
+
+![](img/tur.jpg "A young king in the motherland")
+
+We moved back to Hamilton for a little bit before settling down in Burlington, Canada, just as I started grade school. I've been in Burlington right up until I started university, and I staunchly defend it as the best city in Canada \(although one could easily argue with North American urban planning there are no "good cities"\). 
+
+![](img/sk.jpg "Me at Templemead Elementary School - Hamilton")
+
+## Secondary School 
+
+I changed schools quite a bit due to all the moving, and other then being a rather troublesome kid growing up there's not much worth noting from elementary to middle school. I attended Robert Bateman High School from grade 9 to 10 before it got shut down, then completed the rest of high school as well as the International Baccalaureate certificate program at Burlington Central High School. I was pretty lucky to have some phenomenal teachers throughout high school. This is also the time I began to take up a lot of my core interest that have stuck with me. I started to seriously engage with the arts \(shout out Mr. Bright for always encouraging me, cultivating my curiosity, and honestly just giving me a complete change in perspective. Truly an inspiration.\), dedicated to wrestling \(shout out Coach P for being the goat\), and into rock climbing and fixed gear bikes \(Frank Feng my king put me on both of those\). Alas all good things most come to an end, and as high schools finish line was approaching I was faced with the decision of what to pursue in post secondary. It is here that I found a lot of internal conflict that I still struggle with, and suspect anyone who is interested in both the maths and arts does.
+
+![](img/climb.jpg "On the way back from climbing - Mnt. Nemo")
+![](img/bike.jpg "My baby girl - Shout out the unc that gave it to me for an absolute steal price")
+
+My older (by 3 years) brothers pursued polar opposite fields in university. Abdullah, the older one, studied computer science at the University of Waterloo. Omar, younger by 28 minutes, studied comparative literature at the University of Toronto. One can imagine the obvious influence this had on me. Abdullah always pushed me to start learning python and would try to get me to complete this [little course](https://cscircles.cemc.uwaterloo.ca/), which I never did, while Omar would talk so passionately about what he was currently reading I couldn't help but have my curiosity piqued. All the while in school my brothers paved a reputation for excelling in math and arts respectively. Thus entering high school I felt this heavy expectation to perform up to both my brothers standards, but leaving high school I had an appreciation for the two different studies. While a part of me wanted to do study something similar to my brother Omar, economic uncertainty made me lean more heavily in the math direction. Eventually I accepted my offer for mathematics at the University of Waterloo. I have to say I'm very fortunate to enjoy what I do. So while I didn't sacrifice my smile and joy in life choosing to study math, sometimes I do wonder how different things would have been had I chosen the inverse direction.
+
+![](img/brothers.jpg "The three stooges")
+
+## Post Secondary
+
+Entering and adjusting to university was rough for me. Despite doing well in high school I was never appropriately challenged so my work ethic was in the dumps. My [1A](https://uwaterloo.ca/future-students/welcome/campus-lingo) term of school I scraped by just passing most of my courses. I swore an academic come back before promptly failing 1B. This was a harsh reality check and made me clean up my act a bit. While my grades have been looking up I'm still trying to be a more committed student, and to the learning process. As they say though, old habits die hard.
+
+In my first and second year of university I was fortune to make great friends who I love and cherish for real for real. I'm also trying to join more clubs and make the most out of my university experience. The sudden realization that I'm entering my 3A term in the spring of 2025 is daunting; at the half way mark already.
+
+![](img/soccer.jpg "Intramural soccer things")
+
+## Beyond 
+
+As an aspiring Rust developer I feel as though I'm at a stage in my life where I'm pivoting to be more career oriented. Yet I stand determined to still make time for the things that make me, me.
+
+Now days I make plans for projects I want to do and tools I want to learn, then complain about not having the to do any of them before gooning all day. I am slowly fixing a lot of my less then ideal habits, but for more on that and what this website is you'll have to go here.
