@@ -39,7 +39,7 @@ priority = 0.5
 home = ["HTML", "RSS", "JSON"]
 
 [related]
-threshold = 20      # Minimum relevance score for a post to be considered "related" (1 = low threshold, more matches)
+threshold = 70      # Minimum relevance score for a post to be considered "related" (1 = low threshold, more matches)
 includeNewer = true # Include newer posts in related content (not just older ones)
 toLower = true      # Convert terms to lowercase for comparison (makes matching case-insensitive)
 

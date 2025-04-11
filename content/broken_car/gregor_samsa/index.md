@@ -1,5 +1,5 @@
 ---
-title: "To let someone touch our soul"
+title: "To let someone touch your soul"
 summary: "Was he an animal, that music could move him so?"
 description: "Was he an animal, that music could move him so?"
 

@@ -14,7 +14,7 @@ enableCodeCopy = false
 
 replyByEmail = false
 
-mainSections = ["blogs", "essays", "music"]
+mainSections = ["blogs", "essays", "music", "broken_car", "blb"]
 # robots = ""
 
 disableImageOptimization = false
@@ -45,7 +45,7 @@ showScrollToTop = true
 layout = "background"                      # valid options: page, profile, hero, card, background, custom
 homepageImage = "/img/eva_background2.png" # used in: hero, and card
 showRecent = true
-showRecentItems = 6
+showRecentItems = 9
 showMoreLink = true
 showMoreLinkDest = "/categories/"
 cardView = false
