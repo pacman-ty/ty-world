@@ -24,7 +24,7 @@ excludeFromRelated: true
 
 &nbsp;&nbsp;&nbsp;&nbsp; Hi, I'm Talha.
 
-𓆝 𓆟 𓆞 𓆝 𓆟𓆝 𓆟 𓆞 𓆝 𓆟
+&nbsp;&nbsp;&nbsp;&nbsp; 𓆝 𓆟 𓆞 𓆝 𓆟𓆝 𓆟 𓆞 𓆝 𓆟
 
 &nbsp;&nbsp;&nbsp;&nbsp; I'll keep this section strictly about me and reserve what the nature of this website is for a separate post for the fans.
 
