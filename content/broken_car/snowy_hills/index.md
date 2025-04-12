@@ -1,7 +1,7 @@
 ---
 title: "Snowy hills and beyond"
-summary: ""
-description: ""
+summary: "A blank slate"
+description: "A blank slate"
 
 draft: false
 date: 2025-03-14 # follow the Y/M/D format 
@@ -13,6 +13,9 @@ categories: [car]
 
 authors:
   - talha
+
+showRelatedContent: false
+showReadingTime: false
 ---
 
 ![](image.png)

@@ -15,7 +15,7 @@ buildDrafts = false
 buildFuture = false
 
 enableEmoji = true
-
+timeout = "120s"   # Increase from default 30s
 # googleAnalytics = "G-XXXXXXXXX"
 
 [pagination]

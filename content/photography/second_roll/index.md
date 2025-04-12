@@ -45,7 +45,7 @@ Still feeling things out.
 
 ![](img/02x07.jpg "Cooking night!")
 
-![](img/02x08.jpg "Muck!")
+![](img/02x08.jpg "Dessert!")
 
 ![](img/02x09.jpg "Nice picture at the AGO. I really wish I got it centred better.")
 
