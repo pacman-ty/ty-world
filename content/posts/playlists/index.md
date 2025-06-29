@@ -31,13 +31,13 @@ Shameless self plug </3
 
 {{< spotify type="playlist" id="2Au4gzfZw9I6xdIjMNCIpx" width="100%" height="420"  >}}
 
-> Symbolic that not everyone who wears skin bears a soul. A testament to our humanity. Proof there exists something beyond flesh and bones. Raw emotion. Oh, how I miss you— oh, how I hate you! 
+> Raw emotion. Oh, how I miss you— oh, how I hate you! 
 
 </br>
 
 {{< spotify type="playlist" id="1vkfAe07IqLyhav3vaxANM" width="100%" height="420"  >}}
 
-> What you search for is in the words— listen closely.
+> What you search for is in the words.
 
 </br>
 
@@ -61,7 +61,7 @@ Shameless self plug </3
 
 {{< spotify type="playlist" id="1U5IlOdyuvRVGJJhYN4VOq" width="100%" height="420"  >}}
 
-> My fruity king. 
+> My fruity king. My favourite, yet most hated playlist. Thank you.
 
 </br>
 

@@ -21,46 +21,19 @@ pageRef = "about"
 weight = 1
 
 [[main]]
-name = "Blogs"
-pageRef = "blogs"
+name = "Posts"
+pageRef = "posts"
 weight = 2
-
-[[main]]
-name = "Essays"
-pageRef = "essays"
-weight = 3
-
-[[main]]
-name = "Music"
-pageRef = "music"
-weight = 4
-
-
-[[main]]
-name = "Photography"
-pageRef = "photography"
-weight = 5
 
 [[main]]
 name = "Portfolio"
 url = "https://ty-world.vercel.app/"
-weight = 6
+weight = 3
 
 [[subnavigation]]
-name = "Broken Car"
-pre = "paw1"
-pageRef = "broken_car"
-weight = 1
-
-[[subnavigation]]
-name = "The Blind Leading the Blind"
-pre = "youtube"
-pageRef = "blb"
-weight = 2
-
-[[subnavigation]]
-name = "Github"
+name = "Source"
 pre = "github"
+url = "https://github.com/pacman-ty/ty-world"
 weight = 3
 
 # [[subnavigation]]

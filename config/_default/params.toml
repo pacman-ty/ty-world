@@ -14,7 +14,7 @@ enableCodeCopy = false
 
 replyByEmail = false
 
-mainSections = ["blogs", "essays", "music", "broken_car", "blb", "photography"]
+mainSections = ["posts"]
 # robots = ""
 
 disableImageOptimization = false
@@ -47,7 +47,7 @@ homepageImage = "/img/eva_background2.png" # used in: hero, and card
 showRecent = true
 showRecentItems = 9
 showMoreLink = true
-showMoreLinkDest = "/categories/"
+showMoreLinkDest = "/posts/"
 cardView = false
 cardViewScreenWidth = false
 layoutBackgroundBlur = false               # only used when layout equals background
@@ -124,7 +124,7 @@ showHero = false
 heroStyle = "basic"         # valid options: basic, big, background, thumbAndBackground
 showBreadcrumbs = false
 showTableOfContents = false
-groupByYear = true
+groupByYear = false
 cardView = true
 cardViewScreenWidth = false
 
