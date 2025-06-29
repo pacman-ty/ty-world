@@ -25,9 +25,9 @@ The site architecture is relatively straight forward and followed a clear line o
 
 At the very beginning I started with limiting myself to using Static Site Generator \(SSG\). I chose SSG because my site does not need any dynamic functionality allowing me to minimize bloat and potential security vulnerabilities that comes with shipping a dynamic site filled with Javascript \(also JS sucks lol\). I am of the strong opinion that much of the modern web today is both ridiculously over engineered and bloated.
 
-When it came to choosing which SSG I wanted to use I naturally drifted towards Hugo. My brother had recommended Hugo to me which had previously peaked my curiosty in it. Hugo being blazingly fast with a plethora of themes to choose from was the cherry on top. 
+When it came to choosing which SSG I wanted to use I naturally drifted towards Hugo. My brother had recommended Hugo to me which had previously peaked my curiosity in it. Hugo being blazingly fast with a plethora of themes to choose from was the cherry on top.
 
-I am using the Blowfish theme for website. I find the sheer amount of functionality and easy customizability Blowfish gives out of the box staggering. Blowfish is probably the most comprehensive theme out there and I highly recommend using it. 
+I am using the Blowfish theme for website. I find the sheer amount of functionality and easy customizability Blowfish gives out of the box staggering. Blowfish is probably the most comprehensive theme out there and I highly recommend using it.
 
 Some other key features that were important to me that led into the Hugo Blowfish powered site are:
 
@@ -41,12 +41,8 @@ Some other key features that were important to me that led into the Hugo Blowfis
 
 Having covered what and why I am using to power my site, lets talk about hosting. I am using Cloudflare Pages to host my site. The primary reason I went with Cloudflare for hosting is that I found it to be a one stop shop for me. I use them to rent my domain name and host my site. Hosting a static site like this with Cloudflare Pages is also free, so the fact that I could register my domain name with was the cherry on top. Also personally I find it a bit easier to use then GitHub Pages in terms of straight deployment, but a little more annoying to create workflows with. Also Cloudflares has the potential to integrate Content Delivery Networks CDN, gives DDos protection out the box, and acts a reverse proxy for extra security. Its pretty great.
 
-My title was kind of click bait because I'm not actually going to go over how to make a blog, I just wanted to yap. Instead I think you should checkout Blowfish's documentation (LINK THIS HERE) itself as it will stay up to date with any changes they make to the process while my blog probably wont. 
+My title was kind of click bait because I'm not actually going to go over how to make a blog, I just wanted to yap. Instead I think you should checkout Blowfish's documentation (LINK THIS HERE) itself as it will stay up to date with any changes they make to the process while my blog probably wont.
 
-But I do want to quickly talk about how to add comments since they are the slightest big confusing in my opinion 
+But I do want to quickly talk about how to add comments since they are the slightest big confusing in my opinion
 
 ## Adding Comments via Giscus
-
-
-
-
