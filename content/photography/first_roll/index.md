@@ -45,7 +45,7 @@ Somehow not too bad.
 
 ![](img/01x07.jpg "Walking home from Charcoal Pit.")
 
-![](img/01x08.jpg "More backshots.")
+![](img/01x08.jpg "Backshots.")
 
 ![](img/01x09.jpg "More backshots.")
 

@@ -51,11 +51,11 @@ Still feeling things out.
 
 ![](img/02x10.jpg "One of my favourite paintings in the exhibit.")
 
-<!-- ![](img/02x11.jpg "Mmhhhhh.") will come back to this maybe -->
+![](img/02x11.jpg "Mmhhhhh.")
 
 ![](img/02x12.jpg "I like this photo :\)")
 
-<!--  ![](img/02x13.jpg "Trin cooking???") -->
+![](img/02x13.jpg "Trin cooking???")
 
 ![](img/02x14.jpg "Swan Lake at the Four Seasons Centre for the Performing Arts, Toronto. The first ballet I attended; it was captivating.")
 
