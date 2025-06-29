@@ -59,8 +59,9 @@ pageRef = "blb"
 weight = 2
 
 [[subnavigation]]
-name = "Github"
+name = "Source"
 pre = "github"
+url = "https://github.com/pacman-ty/ty-world"
 weight = 3
 
 # [[subnavigation]]
