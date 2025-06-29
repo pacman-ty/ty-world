@@ -3,7 +3,7 @@ title: "About"
 summary: "Wander into the glade and listen to the wind."
 description: "Wander into the glade and listen to the wind."
 
-draft: false
+draft: true
 date: 2025-03-30 # follow the Y/M/D format 
 
 showAuthor: true 
@@ -30,15 +30,15 @@ excludeFromRelated: true
 
 ## Early Life
 
-&nbsp;&nbsp;&nbsp;&nbsp; A little bit of early background. I was born in Hamilton, Canada, but shortly after moved back to my moms home town; Uşak, Türkiye. I don't remember to much of my time in Türkiye— being so young at the time— but a core memory I formed was learning to play chess. It was actually taught at the school I attended; every Friday end of day was chess lessons. I think the reason I still play to this day are the fond memories I have of when I was learning the game. My aunt also taught more fundamentals at home, which sparked an intense rivalry between me and my older twin brothers. I have a lot of nostalgia for back home, but who doesn't. I remember when my older cousin would take me on errands and buy me gummies every time. It was our secret we kept from my brothers and I thought it was the greatest blessing in my life. Ultimately, I don't otherwise remember too much, 
+&nbsp;&nbsp;&nbsp;&nbsp; A little bit of early background. I was born in Hamilton, Canada, but shortly after moved back to my moms home town; Uşak, Türkiye. I don't remember to much of my time in Türkiye— being so young at the time— but a core memory I formed was learning to play chess. It was actually taught at the school I attended; every Friday end of day was chess lessons. I think the reason I still play to this day are the fond memories I have of when I was learning the game. My aunt also taught more fundamentals at home, which sparked an intense rivalry between me and my older twin brothers. I have a lot of nostalgia for back home, but who doesn't. I remember when my older cousin would take me on errands and buy me gummies every time. It was our secret we kept from my brothers and I thought it was the greatest blessing in my life. Ultimately, I don't otherwise remember too much,
 
 ![](img/tur.jpg "A young king in the motherland")
 
-&nbsp;&nbsp;&nbsp;&nbsp; We moved back to Hamilton for a little bit before settling down in Burlington, Canada, just as I started grade school. I've been in Burlington right up until university, and I staunchly defend it as the best city in Canada \(although one could easily argue with North American urban planning there are no "good cities"\). 
+&nbsp;&nbsp;&nbsp;&nbsp; We moved back to Hamilton for a little bit before settling down in Burlington, Canada, just as I started grade school. I've been in Burlington right up until university, and I staunchly defend it as the best city in Canada \(although one could easily argue with North American urban planning there are no "good cities"\).
 
 ![](img/sk.jpg "Me at Templemead Elementary School")
 
-## Secondary School 
+## Secondary School
 
 &nbsp;&nbsp;&nbsp;&nbsp; I changed schools quite a bit due to all the moving. Other than being a rather troublesome kid growing up, there's not much worth noting from elementary to middle school. After that, I attended Robert Bateman High School from grade 9 to 10 before it got shut down. I then completed the rest of high school— along with the International Baccalaureate certificate program— at Burlington Central High School. I was fortunate to have some phenomenal teachers throughout those years. This is also the time I began to take up a lot of my core interest that have stuck with me. I started to seriously engage with the arts \(shout out to Mr. Bright for always encouraging me, cultivating my curiosity, and honestly just giving me a complete change in perspective\), dedicated to wrestling \(shout out Coach Papadopoulos for being the goat\), and into rock climbing and fixed gear bikes \(Frank Feng my king put me on both of those\). Alas, all good things must come to an end, and as high schools finish line approached, I was faced with the decision of what to pursue in post secondary. It was here that I encountered a lot of internal conflict— something I still struggle with and suspect most people drawn to both math and arts do as well.
 
@@ -57,7 +57,7 @@ excludeFromRelated: true
 
 ![](img/soccer.jpg "Intramural soccer things")
 
-## Beyond 
+## Beyond
 
 &nbsp;&nbsp;&nbsp;&nbsp; As an aspiring Rust developer I feel as though I'm at a stage in my life where I'm pivoting to be more career oriented. Yet I stand determined to still make time for the things that make me, me.
 
