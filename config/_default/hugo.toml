@@ -19,7 +19,7 @@ timeout = "120s"   # Increase from default 30s
 # googleAnalytics = "G-XXXXXXXXX"
 
 [pagination]
-pagerSize = "9"
+pagerSize = 9
 
 [imaging]
 anchor = 'Center'
