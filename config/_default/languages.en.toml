@@ -4,13 +4,6 @@ languageName = "English"
 weight = 1
 title = "Ty's World"
 
-
-[pagination]
-disableAliases = true
-paginate = true
-pagerSize = 9
-path = 'page'
-
 [params]
 displayName = "EN"
 isoCode = "en"
