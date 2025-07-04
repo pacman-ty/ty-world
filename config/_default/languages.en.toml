@@ -26,6 +26,7 @@ links = [
   { youtube = "https://www.youtube.com/@_TheBlindLeadingTheBlind" },
   { linkedin = "https://www.linkedin.com/in/talha-yildirimm/" },
   { github = "https://github.com/pacman-ty" },
+  { letterboxd = "https://letterboxd.com/pacman_/" },
   #     { email = "mailto:hello@your_domain.com" },
   #     { link = "https://link-to-some-website.com/" },
   #     { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
